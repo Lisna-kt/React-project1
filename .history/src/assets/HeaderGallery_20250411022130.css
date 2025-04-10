@@ -1,0 +1,56 @@
+.header-gallery {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    overflow: hidden;
+  }
+  
+  .main-image {
+    flex: 1;
+    overflow: hidden;
+    cursor: zoom-in;
+    transition: transform 0.3s ease;
+  }
+  
+  .main-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.5s ease;
+  }
+  
+  .main-image.zoomed img {
+    transform: scale(1.5);
+    cursor: zoom-out;
+  }
+  
+  .side-gallery {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+  }
+  
+  .thumbnails {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    overflow: hidden;
+    height: 400px;
+  }
+  
+  .thumbnails img {
+    width: 100%;
+    cursor: pointer;
+    object-fit: cover;
+    height: 120px;
+    border: 1px solid #ccc;
+  }
+  
+  .arrow {
+    font-size: 24px;
+    margin: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }

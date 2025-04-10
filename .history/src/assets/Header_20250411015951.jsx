@@ -9,12 +9,12 @@ const Header = () => {
   const slides = [
     {
       img: "/images/Header-images/Header3.webp",
-      
+      title:"Exclusively for ladies",
       
     },
     {
       img: "/images/Header-images/Header2.webp",
-      
+      title:"Exclusively for ladies",
 
     },
     {
@@ -75,7 +75,12 @@ const Header = () => {
                 />
                 {/* Overlay title */}
                 <div className="absolute inset-0 flex items-center justify-center">
-                 
+                  <a
+                    href={slide.link}
+                    className="text-white text-4xl md:text-5xl font-light bg-black/40 px-6 py-3 rounded hover:underline transition"
+                  >
+                    {slide.title}
+                  </a>
                 </div>
               </div>
             </SwiperSlide>

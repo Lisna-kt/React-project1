@@ -8,22 +8,24 @@ const Header = () => {
   // Slide data: image + title + optional link
   const slides = [
     {
-      img: "/images/Header-images/Header3.webp",
-      
-      
+      img: "/images/Header-images/Header2.webp",
+      title: "MODERN CLASSICS",
+      link: "/modern-classics",
     },
     {
-      img: "/images/Header-images/Header2.webp",
-      
-
+      img: "/images/Header-images/Header3.webp",
+      title: "BRIDAL COLLECTION",
+      link: "/bridal",
     },
     {
       img: "/images/Header-images/Header1.webp",
-     
+      title: "ICONIC DESIGNS",
+      link: "/icons",
     },
     {
       img: "/images/Header-images/Header4.webp",
-      
+      title: "TIMELESS LOAFERS",
+      link: "/loafers",
     },
   ];
 
@@ -37,7 +39,7 @@ const Header = () => {
       {/* Navbar */}
       <nav className="bg-white shadow-md flex flex-col md:flex-row justify-between items-center px-6 py-4 gap-4 md:gap-0">
         <div className="text-2xl font-light tracking-wide">
-          <a href="/">BARE LUXE</a>
+          <a href="/">BIRMAN</a>
         </div>
 
         <ul className="flex space-x-4 md:space-x-6 text-gray-700 text-sm font-medium">
@@ -75,7 +77,12 @@ const Header = () => {
                 />
                 {/* Overlay title */}
                 <div className="absolute inset-0 flex items-center justify-center">
-                 
+                  <a
+                    href={slide.link}
+                    className="text-white text-4xl md:text-5xl font-light bg-black/40 px-6 py-3 rounded hover:underline transition"
+                  >
+                    {slide.title}
+                  </a>
                 </div>
               </div>
             </SwiperSlide>
