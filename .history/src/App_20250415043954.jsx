@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import 'react-toastify/dist/ReactToastify.css';
+
 import './App.css'
 import Header from './assets/Header'
 import HeaderGallery from './assets/Headergallery'

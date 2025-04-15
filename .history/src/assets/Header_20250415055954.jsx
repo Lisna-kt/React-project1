@@ -31,11 +31,11 @@ const Header = () => {
         {/* Navigation Links */}
         <ul className="flex flex-wrap justify-center space-x-4 md:space-x-6 text-gray-700 text-sm font-medium">
           <li><Link to="/new-arrivals" className="hover:text-black">New Arrivals</Link></li>
-          <li><Link to="/boots" className="hover:text-black">Boots</Link></li>
-          <li><Link to="/bridal" className="hover:text-black">Bridal & Wedding</Link></li>
+          <li><Link to="/shoes" className="hover:text-black">Boots</Link></li>
+          <li><Link to="/modern-classics" className="hover:text-black">Bridal & Wedding</Link></li>
           <li><Link to="/icons" className="hover:text-black">Icons</Link></li>
-          <li><Link to="/loafers" className="hover:text-black">Loafers</Link></li>
-          
+          <li><Link to="/bridal" className="hover:text-black">Loafers</Link></li>
+          <li><Link to="/sale" className="hover:text-black">Sale</Link></li>
         </ul>
 
         {/* Right Side Icons */}
