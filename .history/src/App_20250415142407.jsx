@@ -9,7 +9,6 @@ import Register from './assets/pages/Register'
 import { ToastContainer } from 'react-toastify'
 import Product from './assets/pages/Products';
 import { ProductProvider } from './assets/Context/Productcontext';
-import { SearchProvider } from './assets/Context/SearchContext';
 
 
 function App() {
@@ -17,7 +16,7 @@ function App() {
 
   return (
     <>
-     <SearchProvider>
+    
     <ProductProvider>
     <Routes>
       <Route
@@ -36,7 +35,6 @@ function App() {
     
     </Routes>
     </ProductProvider>
-    </SearchProvider>
     <ToastContainer autoClose={3000}/>
     </>
   

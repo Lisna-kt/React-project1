@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/autoplay";
-import Navbar from "./components/navbar"; // ✅ Import the new Navbar
+import Navbar from "../components/Navbar"; // ✅ Import the new Navbar
 
 const Header = () => {
   const slides = [
