@@ -137,115 +137,11 @@
     },
     {
       "id": "10",
-      "name": "Clarita Bell Slingback 85 pumps",
+      "name": "Leather ballet pumps",
       "price": 1500,
       "quantity": 15,
-      "categories": "pumps",
-      "images": "https://alexandrebirman.com/cdn/shop/files/B0606500020015_03_1420x.jpg?v=1728579254"
-    },
-    {
-      "id": "5",
-      "name": "Pandora 85 pumps",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "pumps",
-      "images": "https://alexandrebirman.com/cdn/shop/files/B0602900060002_03_1420x.jpg?v=1728566258"
-    },
-    {
-      "id": "5",
-      "name": "Heliconia 100 Pump",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "pumps",
-      "images": "https://alexandrebirman.com/cdn/shop/files/B3596000090001_03_1420x.jpg?v=1728582156"
-    },
-    {
-      "id": "5",
-      "name": "Nessa Woven 60 pump",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "pumps",
-      "images": "https://alexandrebirman.com/cdn/shop/files/B3612000010002_03_1420x.jpg?v=1728584369"
-    },
-    {
-      "id": "5",
-      "name": "Pamela 85 Green pump",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "pumps",
-      "images": "https://alexandrebirman.com/cdn/shop/files/7900061708774-1_1d0e19e5-7fa1-490a-94b3-f634aa1a8abc_1420x.jpg?v=1704824807"
-    },
-    {
-      "id": "5",
-      "name": "Tita 60 Slingback Black & White pump",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "pump",
-      "images": "https://alexandrebirman.com/cdn/shop/files/B0606100010001_03_1420x.jpg?v=1713300168"
-    },
-    {
-      "id": "5",
-      "name": "Sonya 85 White new",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "new arrival",
-      "images": "https://alexandrebirman.com/cdn/shop/files/B3615400010001_03_1420x.jpg?v=1739976804"
-    },
-    {
-      "id": "5",
-      "name": "Clarita Buckle 60 Creamy new",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "new",
-      "images": "https://alexandrebirman.com/cdn/shop/files/B0604700040006_03_1420x.jpg?v=1733761542"
-    },
-    {
-      "id": "5",
-      "name": "Maxi Clarita Flare 120 White new",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "new",
-      "images": "https://alexandrebirman.com/cdn/shop/files/B3580900040001_HO_1420x.jpg?v=1739818118"
-    },
-    {
-      "id": "5",
-      "name": "Mabeleh Platform Black",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "icons",
-      "images": "https://alexandrebirman.com/cdn/shop/products/B3505700060014_03_1420x.jpg?v=1654193219"
-    },
-    {
-      "id": "5",
-      "name": "Mabeleh Platform Beige",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "icons",
-      "images": "https://alexandrebirman.com/cdn/shop/files/B3505700060006_03_1420x.jpg?v=1731613399"
-    },
-    {
-      "id": "5",
-      "name": "Clarita Block 90 Beige",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "icons",
-      "images": "https://alexandrebirman.com/cdn/shop/products/CLARITA_BLOCK_90_NUDE_NAPPA_B3503900130019_02_750x.jpg?v=1571709784"
-    },
-    {
-      "id": "5",
-      "name": "Clarita Block 60 Beige",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "icons",
-      "images": "https://alexandrebirman.com/cdn/shop/products/CLARITA_BLOCK_60_NUDE_NAPPA_B3500100210014_02_1420x.jpg?v=1571709784"
-    },
-    {
-      "id": "5",
-      "name": "Clarita 75 Black",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "icons",
-      "images": "https://alexandrebirman.com/cdn/shop/products/B0018780000021_CLARITA_75_BLACK_NAPPA_8288__copy_0d0433ef-14cf-4bae-9da5-8048dfd3bbf5_1420x.png?v=1713985778"
+      "categories": "women",
+      "images": "//lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F26%2Fcc%2F26ccd57b07bb57632ebb83eb93bf834bb3fa7f9a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_premium_selection_shoes%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
     }
   ]
 }

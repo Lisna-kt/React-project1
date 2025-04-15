@@ -196,56 +196,16 @@
       "name": "Clarita Buckle 60 Creamy new",
       "price": 2499,
       "quantity": 11,
-      "categories": "new",
+      "categories": "loafer",
       "images": "https://alexandrebirman.com/cdn/shop/files/B0604700040006_03_1420x.jpg?v=1733761542"
     },
     {
       "id": "5",
-      "name": "Maxi Clarita Flare 120 White new",
+      "name": "Clarita Laser Loafer",
       "price": 2499,
       "quantity": 11,
-      "categories": "new",
-      "images": "https://alexandrebirman.com/cdn/shop/files/B3580900040001_HO_1420x.jpg?v=1739818118"
-    },
-    {
-      "id": "5",
-      "name": "Mabeleh Platform Black",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "icons",
-      "images": "https://alexandrebirman.com/cdn/shop/products/B3505700060014_03_1420x.jpg?v=1654193219"
-    },
-    {
-      "id": "5",
-      "name": "Mabeleh Platform Beige",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "icons",
-      "images": "https://alexandrebirman.com/cdn/shop/files/B3505700060006_03_1420x.jpg?v=1731613399"
-    },
-    {
-      "id": "5",
-      "name": "Clarita Block 90 Beige",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "icons",
-      "images": "https://alexandrebirman.com/cdn/shop/products/CLARITA_BLOCK_90_NUDE_NAPPA_B3503900130019_02_750x.jpg?v=1571709784"
-    },
-    {
-      "id": "5",
-      "name": "Clarita Block 60 Beige",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "icons",
-      "images": "https://alexandrebirman.com/cdn/shop/products/CLARITA_BLOCK_60_NUDE_NAPPA_B3500100210014_02_1420x.jpg?v=1571709784"
-    },
-    {
-      "id": "5",
-      "name": "Clarita 75 Black",
-      "price": 2499,
-      "quantity": 11,
-      "categories": "icons",
-      "images": "https://alexandrebirman.com/cdn/shop/products/B0018780000021_CLARITA_75_BLACK_NAPPA_8288__copy_0d0433ef-14cf-4bae-9da5-8048dfd3bbf5_1420x.png?v=1713985778"
+      "categories": "loafer",
+      "images": "https://alexandrebirman.com/cdn/shop/files/B3607900010006_03_1420x.jpg?v=1718902893"
     }
   ]
 }
